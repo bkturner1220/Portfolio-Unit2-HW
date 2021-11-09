@@ -4,7 +4,7 @@ My portfolio website template
 
 ## Screenshot
 
-[Brian Turner](bturner-shot.jpeg)
+[Brian Turner](BrianTurner-Shot.jpg)
 
 ## Author
 
@@ -12,11 +12,11 @@ My portfolio website template
 
 ## Github repo
 
-This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
+This is the [link](https://github.com/bkturner1220/Portfolio-Unit2-HW) to the Github repo of the project
 
 ## Portfolio Website Link
 
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+A live demo is already available via this [link](https://bkturner1220.github.io/Portfolio-Unit2-HW/)
 
 ## Tech Stack
 
