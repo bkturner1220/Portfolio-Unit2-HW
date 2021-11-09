@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Head -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--CSS Styles Section -->
+        <!-- Styles Reset -->
+    <link rel="stylesheet" href="./assets/css/reset.css" />
+        <!-- Main Styles -->
+    <link rel="stylesheet" href="assets/css/styles.css" />
+<!-- Portfolio page title -->
+    <title>Brian Turner | Fullstack Developer</title>
+  </head>
+
+  <!-- Body -->
+  <body>
+    <!-- Navbar -->
+    <nav>
+      <h1>Brian K. Turner - Fullstack Developer</h1>
+      <ul class="navigation">
+        <li><a href="#about" class="nav-link">About</a></li>
+        <li><a href="#skills" class="nav-link">Skills</a></li>
+        <li><a href="#projects" class="nav-link">Projects</a></li>
+        <li><a href="#contact" class="nav-link">Contact Me</a></li>
+      </ul>
+      <button class="burger-menu" id="burger-menu">
+        <ion-icon class="bars" name="menu-outline"></ion-icon>
+      </button>
+    </nav>
+    
+
+    <!-- Hero Section -->
+    <section class="hero" id="about">
+      <!-- Main profile image on homepage -->
+      <img
+        src="assets/images/profile.png"
+        alt="Brian Turner"
+        loading="lazy"
+        class="hero-img"
+      />
+      <div class="bio animate__animated animate__shakeX">
+        <h2 class="bio-title">About Me</h2>
+        <p class="bio-text">
+          Brian Turner
+          (469-580-5248)
+          <p></p>
+          bturner@texascdlprep.com
+          <p></p>
+          Entry-level Fullstack Developer with proven problem solving, research, and analytical skills. 
+          Currently enrolled in SMU (Southern Methodist University) Coding Bootcamp, where I am continuing my dream as a certified
+          Fullstack Developer. Seeking to leverage my professional expertise and strong people management skills
+          to secure a job as a Fullstack Developer.
+        </p>
+      </div>
+    </section>
+
+    <!-- More about -->
+    <section class="more-about">
+
+      <h2>More About Me</h2>
+      <p>
+        Dynamic and motivated professional with a desire to pursue my goals and contribute to a corporate environment. Constantly building relationships to further my objectives and knowledgebase among much more.
+        Excellent in coaching individuals to success while Skilled in building cross-functional teams, demonstrating exceptional communication
+        skills, and making critical decisions during challenges. Adaptable and transformational leader with an ability to work independently and/or with a team to bring projects from concept to completetion. creating effective presentations, and
+        developing opportunities that further establish organizational goals.
+   
+      <p>
+        Always on time and a dedicated team player!
+      </p>
+    </section>
+
+    <!-- Skills section -->
+    <section class="skills" id="skills">
+      <h2 class="skill-header">Top Skills</h2>
+      <div class="skills-wrapper">
+        <div class="second-set animate__animated animate__pulse">
+          <img
+            src="assets/icons/icons8-html-5.svg"
+            alt="HTML 5 icon"
+            loading="lazy"
+            class="icon icon-card"
+          
+          />
+          <img
+            src="assets/icons/icons8-css3.svg"
+            alt="CSS icon"
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <img
+            src="assets/icons/icons8-javascript.svg"
+            alt="JAVASCRIPT icon"
+            loading="lazy"
+            class="icon icon-card"
+          />
+   
+        <div class="second-set animate__animated animate__pulse">
+          <img
+            src="assets/icons/icons8-bootstrap.svg"
+            alt="BOOTSTRAP icon"
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <img
+            src="assets/icons/icons8-react-native.svg"
+            alt="REACT-NATIVE icon"
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <img
+            src="assets/icons/icons8-git.svg"
+            alt="GIT icon"
+            loading="lazy"
+            class="icon icon-card"
+          />
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects section -->
+    <section class="projects" id="projects">
+      <h2 class="projects-title">Recent Projects</h2>
+      <div class="projects-container">
+        <div class="project-container project-card">
+          <img
+            src="assets/images/txcdlprep-logo_web.png"
+            alt="Texas CDL Prep"
+            loading="lazy"
+            class="project-pic"
+          />
+          <h3 class="project-title">Website Development</h3>
+          <p class="project-details">
+            Texas CDL Prep we provides quality and real self-taught 
+            educational applications for all future commercial 
+            driving needs.
+          </p>
+          <a href="http://www.texascdlprep.com" target="_blank" class="project-link">Check it Out</a>
+        </div>
+        <div class="project-container project-card">
+          <img
+            src="assets/images/GitHub-logo.png"
+            alt="Github bkturner1220"
+            loading="lazy"
+            class="project-pic"
+          />
+          <h3 class="project-title"></h3>
+          <p class="project-details">
+            Access my Github to get a preview of old and new projects that
+            I have been working.  These projects/repositories are a reflection of
+            my journey to becoming a Fullstack Developer.
+          </p>
+          <a href="https://github.com/bkturner1220/" target="_blank" class="project-link">Check it Out</a>
+        </div>
+        <div class="project-container project-card">
+          <img
+            src="assets/images/txcdlprep-logo_mobile.png"
+            alt="greeny-earth"
+            loading="lazy"
+            class="project-pic"
+          />
+          <h3 class="project-title">Mobile Development</h3>
+          <p class="project-details">
+            Mobile Developement side of Texas CDL Prep. This aspect of
+            Texas CDL Prep consist of both Apple and Android version sold
+            on both App Store and Google Play Store.
+          </p>
+          <a href="https://play.google.com/store/apps/details?id=com.ocstransport.cdldemo&hl=en_US&gl=US" target="_blank" class="project-link">Check it Out</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact section -->
+    <section class="contact" id="contact">
+      <h2>Contact Me!</h2>
+      <div class="contact-form-container">
+        <div class="contact-form">
+          <form action="https://formspree.io/f/mzbylnjz" method="POST">
+            <div class="form-control">
+              <label for="name">Name</label>
+              <input
+                type="text"
+                id="name"
+                name="sender-name"
+                placeholder="Enter Your Name"
+                class="input-field"
+                required
+              />
+            </div>
+            <div class="form-control">
+              <label for="email">Email</label>
+              <input
+                type="email"
+                id="email"
+                name="sender-email"
+                placeholder="Enter Your Email"
+                class="input-field"
+                required
+              />
+            </div>
+            <div class="form-control">
+              <label for="message">Message</label>
+              <textarea
+                id="message"
+                cols="60"
+                rows="10"
+                placeholder="Enter Your Message"
+                name="message"
+                class="input-field"
+                required
+              ></textarea>
+            </div>
+            <input
+              type="submit"
+              value="Submit"
+              id="submit-btn"
+              class="submit-btn"
+            />
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <!-- Social accounts - Fixed to the right -->
+    <div class="socials">
+      <a href="https://www.linkedin.com/in/brian-turner-1923b8177/" target="_blank"
+        ><img
+          src="assets/icons/icons8-linkedin-circled.gif"
+          alt="Linkedin"
+          loading="lazy"
+          class="socicon"
+      /></a>
+      <a href="https://github.com/bkturner1220/" target="_blank"
+        ><img src="assets/icons/icons8-github.gif" alt="Github" class="socicon"
+      /></a>
+    </div>
+
+
+    <!-- Footer section -->
+    <footer>
+      <p class="copy">
+        Built by
+        <a href="https://github.com/bkturner1220/" target="_blank"
+          >Brian Turner </a
+        >
+      </p>
+    </footer>
+
+  </body>
+</html>
