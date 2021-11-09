@@ -1,6 +1,6 @@
 # DEVELOPER PORTFOLIO
 
-My portfolio website template
+Portfolio-Unit2-HW
 
 ## Screenshot
 
@@ -8,7 +8,7 @@ My portfolio website template
 
 ## Author
 
-[bturner@texascdlprep.com](https://www.texascdlprep.com)
+[Brian Turner](bturner@texascdlprep.com)
 
 ## Github repo
 
@@ -33,9 +33,9 @@ Below are are list of tools used, and the precise things they were used for:
 
 The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
 
-The assets folder contains the CSS and JavaScript files, all images and icons used, in their respective folders.
+The assets folder contains the CSS files and all images and icons used are in their respective folders.
 
-## Customization Guide
+## Additional Information
 
 The various sections in the HTML and CSS are well commented.
 
