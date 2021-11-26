@@ -1,44 +1,60 @@
-# DEVELOPER PORTFOLIO
+# Professional_Portfolio
 
-Portfolio-Unit2-HW
+The purpose of this project is to build a basic site consisting of my professional portfolio which within the content consist of what we have learned thus far in SMU's coding bootcamp. This can showcase my development skills and work completed for future and of course SMU's coding bootcamp. Creating this type of site will give potential clients/employers some insight into the developer through several sections within the page such as the "About Me" section. This site is an important tool in obtaining opportunities for employment.
 
-## Screenshot
+The main formatting for the site utilizes HTML with supplimental CSS to "personalize" the site.
 
-[Brian Turner](BrianTurner-Shot.jpg)
+Layout and content were built using HTML and CSS using Visual Studio Code editor.
 
-## Author
+This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-[Brian Turner](bturner@texascdlprep.com)
+- [GitHub Repository](https://github.com/bkturner1220/Professional_Portfolio)
+- [Deployed GitHub IO](https://bkturner1220.github.io/Professional_Portfolio/)
 
-## Github repo
+[Professional-Portfolio Screenshot](BrianTurner-Shot.jpg)
 
-This is the [link](https://github.com/bkturner1220/Portfolio-Unit2-HW) to the Github repo of the project
+### Prerequisites
 
-## Portfolio Website Link
+To install this application, you will need a text editor. I recommend Visual Studio Code.
 
-A live demo is already available via this [link](https://bkturner1220.github.io/Portfolio-Unit2-HW/)
+### Installation
 
-## Tech Stack
+To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
 
-**Client:** HTML, CSS
+## Project Requirements
 
-## Tools Used
+This project provides a responsive template for a my professional portfolio.
 
-Below are are list of tools used, and the precise things they were used for:
+Pages include the following: Index.html with media queries for screensizes 980px, 786px, 640px.
 
+### Summary
+
+- HTML and CSS documents built from a previous project
 - [Icon8](https://icons8.com/) for animated icons and skills icons
 - [Formspree](https://formspree.io/) for contact form submision and straight delivery to Gmail
+- This project emphasizes the use of repsonsive design using CSS Media Queries
 
-## Folder Structure
+### To Execute File:
 
-The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
+> Open in browser
 
-The assets folder contains the CSS files and all images and icons used are in their respective folders.
+### Pages Structure:
 
-## Additional Information
+- One HTML Pages
+  - Index.html
+    - Contains personal bio
+- Two CSS Pages
+  - Styles.css
+    - Main styles sheet
+  - Reset.css
+    - Clears default browser styling
 
-The various sections in the HTML and CSS are well commented.
+## Authors
 
-For the form submission, formspree was used. You can get a hands-on tutorial on how to use formspree by watching this [YouTube video](https://formspree.io/). Submissions will be delivered straignt into the specified a Gmail account.
+- **Brian K Turner** - _Initial work_ - [Git Hub Profile](https://github.com/bkturner1220)
+- SMU Project Design
+  If you encounter problems, please feel free to reach out to me by sending me a email to my [Email]@(bturner@texascdlprep.com).
 
-If you encounter problems, please feel free to reach out to me by sending me a email to my [Email]@(bturner@texascdlprep.com).
+## Acknowledgments
+
+- SMU's coding bootcamp for project parameters and code examples
