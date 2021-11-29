@@ -1,4 +1,4 @@
-# Professional_Portfolio
+# Professional_Portfolio (Updated)
 
 The purpose of this project is to build a basic site consisting of my professional portfolio which within the content consist of what we have learned thus far in SMU's coding bootcamp. This can showcase my development skills and work completed for future and of course SMU's coding bootcamp. Creating this type of site will give potential clients/employers some insight into the developer through several sections within the page such as the "About Me" section. This site is an important tool in obtaining opportunities for employment.
 
